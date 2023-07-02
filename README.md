@@ -5,3 +5,4 @@
  ii> simply enter the how many product you want
  iii> Enter the name of the product, quantity and price
  iv>  Than it provide the bill of your shopping
+3. String.py file has a basic knowledge of the string    indexing,slicing,looping etc
